@@ -1,0 +1,6 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\bin\Debug\Prueba Final Jordan Jorge Barre Ramirez.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\obj\Debug\Prueba Final Jordan Jorge Barre Ramirez.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\bin\Debug\Prueba Final Jordan Jorge Barre Ramirez.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\bin\Debug\Prueba Final Jordan Jorge Barre Ramirez.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\obj\Debug\Prueba Final Jordan Jorge Barre Ramirez.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Prueba Final Jordan Jorge Barre Ramirez\Prueba Final Jordan Jorge Barre Ramirez\obj\Debug\Prueba Final Jordan Jorge Barre Ramirez.pdb
